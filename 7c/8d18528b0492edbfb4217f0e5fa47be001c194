@@ -1,0 +1,14 @@
+README.md
+  h_cace9fd25e9196 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7c8d18528b0492edbfb4217f0e5fa47be001c194",
+  "prompts": {},
+  "humans": {
+    "h_cace9fd25e9196": {
+      "author": "Jayakar Katika <reddyjayakar@gmail.com>"
+    }
+  }
+}
