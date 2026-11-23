@@ -1,0 +1,16 @@
+Casks/betterpass-cli.rb
+  h_cace9fd25e9196 1-19
+README.md
+  h_cace9fd25e9196 6-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4d52742e905b910b73bc7f6a65b1a329ac4a4b90",
+  "prompts": {},
+  "humans": {
+    "h_cace9fd25e9196": {
+      "author": "Jayakar Katika <reddyjayakar@gmail.com>"
+    }
+  }
+}
